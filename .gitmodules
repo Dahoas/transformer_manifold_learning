@@ -1,0 +1,3 @@
+[submodule "GPTID"]
+	path = GPTID
+	url = https://github.com/Dahoas/GPTID
