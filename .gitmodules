@@ -1,3 +1,6 @@
 [submodule "GPTID"]
 	path = GPTID
 	url = https://github.com/Dahoas/GPTID
+[submodule "nanoGPT"]
+	path = nanoGPT
+	url = https://github.com/Dahoas/nanoGPT
